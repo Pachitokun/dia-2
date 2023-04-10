@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    border: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: rgba(128, 9, 0, 0.507);
+    text-align: center;
+}
+span{
+    color: aqua;
+}
+p{
+    font-size: 30px;
+}
